@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Nitro Smart",
+        "price" : "12000",
+        "image" : "images/imagenw1.png"
+    },
+    {
+        "name" : "Nitro Watch",
+        "price" : "12000",
+        "image" : "images/imagenw1.png"
+    },
+    {
+        "name" : "Guy Watch",
+        "price" : "12000",
+        "image" : "images/imagenw1.png"
+    },
+    {
+        "name" : "Smart Watch",
+        "price" : "12000",
+        "image" : "images/imagenw1.png"
+    }
+]

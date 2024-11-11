@@ -1,0 +1,47 @@
+{
+    "Bags" : [
+        {
+            "name" : "Gucci",
+            "price" : "45000",
+            "image" : "images/image1.png"
+        },
+        {
+            "name" : "Gucci",
+            "price" : "50000",
+            "image" : "images/image1.png"
+        },
+        {
+            "name" : "Gucci",
+            "price" : "55000",
+            "image" : "images/image1.png"
+        },
+        {
+            "name" : "Gucci",
+            "price" : "60000",
+            "image" : "images/image1.png"
+        }
+    ],
+
+    "watches" : [
+        {
+            "name" : "Rado",
+            "price" : "10000",
+            "images" : "images/imagew1.png"
+        },
+        {
+            "name" : "Rado",
+            "price" : "10000",
+            "images" : "images/imagew2.png"
+        },
+        {
+            "name" : "Rado",
+            "price" : "10000",
+            "images" : "images/imagew3.png"
+        },
+        {
+            "name" : "Rado",
+            "price" : "10000",
+            "images" : "images/imagew4.png"
+        }
+    ]
+}
